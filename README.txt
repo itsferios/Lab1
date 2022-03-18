@@ -43,3 +43,8 @@ At this point, all three datasets were considered, to assess which sectors were 
 
 3.2 For the sectors of the previous point, what is the average age?
 This point is related to the previous one, because we take the sectors with the highest values, and calculate the average age. We see that the average age for activated and extended contracts decreased in 2021, compared to 2020, but the average age for terminated contracts remained the same. 
+
+Conclusion
+In this project, we have analyzed how covid has influenced the employment relationships activated, extended and terminated in Lombardy, analyzing the number of contracts and sectors, employment opportunities according to age and province of the company. In various sectors there is a drastic decrease in the number of contracts, while in others there is growth, albeit minimal. 
+In the lockdown period, the rule of layoffs was respected, which caused a decrease in terminated contracts. But this was only a delay, because then the curve rose again. 
+
