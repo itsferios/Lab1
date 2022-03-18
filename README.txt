@@ -2,6 +2,9 @@ LAB1
 MICHELA PIROZZI - 732531
 FERIOLI SARA - 733105
 
+To install the libraries needed, execute: pip install -r /path/requirements.txt
+The file requirements.txt is loaded into the repository. 
+
 You can find here the links of the datasets we used. We couldn't upload them in the Github repository as they are too big (even the zip file was too big).
 https://www.dati.lombardia.it/Attivit-Produttive/Rapporti-di-lavoro-attivati/qbau-cyuc
 https://www.dati.lombardia.it/Attivit-Produttive/Rapporti-di-lavoro-prorogati/chng-cman
