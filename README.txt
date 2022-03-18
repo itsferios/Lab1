@@ -41,5 +41,5 @@ In the second graph, considering 2018-2019-2020-2021, you can see that during th
 3.1 Which sectors have more or less active, extended or terminated contracts, during covid?
 At this point, all three datasets were considered, to assess which sectors were most affected during the covid. To find our result, we used the max() and min() operators, applied on DataFrames divided by category (activated, extended, and terminated) and divided by year (activated20, activated21, extended20, etc.).
 
-3.2 For the sectors of the previous point, what is the average/median age?
+3.2 For the sectors of the previous point, what is the average age?
 This point is related to the previous one, because we take the sectors with the highest values, and calculate the average age. We see that the average age for activated and extended contracts decreased in 2021, compared to 2020, but the average age for terminated contracts remained the same. 
